@@ -12,8 +12,6 @@ public class Main {
 	HR NewHR = new HR();
 	tech Newtech = new tech();
 			
-	HR SecondHR = new HR();
-	System.out.println(SecondHR.doActivity());
 
     Super AllDepartments[] = new Super[] {NewAdmin,NewHR,Newtech}; // creating an array of objects of the class super                
     
